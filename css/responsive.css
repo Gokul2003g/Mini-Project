@@ -1,16 +1,16 @@
 @media (min-width: 992px) and (max-width: 1024px) {
-     .navbar-right {
-        float: none !important;
-        margin: auto;
-        margin-left: 130px;
-    }
-    
+	.navbar-right {
+		float: none !important;
+		margin: auto;
+		margin-left: 130px;
+	}
+
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    
-    
-    /* TOP BAR ELEMENTS */    
+
+
+	/* TOP BAR ELEMENTS */
 	.responsive-logo {
 		width: 100%;
 		position: relative;
@@ -18,7 +18,7 @@
 		margin-top: 10px;
 		padding-top: 15px;
 	}
-   
+
 	.responsive-logo a {
 		float: none !important;
 	}
@@ -33,15 +33,15 @@
 		margin-bottom: 15px;
 		margin-top: 0 !important;
 	}
-     
-     /* HOME */
+
+	/* HOME */
 	.intro {
 		margin-top: 31%;
 		line-height: 3.438rem !important;
 		font-size: 2.813rem;
 	}
-      
-      /* ABOUT US */
+
+	/* ABOUT US */
 	.big-intro {
 		text-align: center !important;
 	}
@@ -53,8 +53,8 @@
 	.skills {
 		margin-bottom: 78px !important;
 	}
-      
-      /* TEAM */
+
+	/* TEAM */
 	.team-member .profile-pic {
 		width: 128px;
 		height: 128px;
@@ -63,7 +63,8 @@
 	.team-member .details {
 		display: none;
 	}
-      /* PURCHASE NOW */
+
+	/* PURCHASE NOW */
 	.purchase-now {
 		margin: auto;
 		text-align: center !important;
@@ -77,8 +78,8 @@
 	.purchase-now .red-btn {
 		float: none;
 	}
-      
-      /* FOOTER */
+
+	/* FOOTER */
 	footer {
 		padding-top: 40px;
 	}
@@ -94,28 +95,29 @@
 		padding-bottom: 33px;
 	}
 }
+
 @media (max-width: 1024px) {
-    .features {
-        text-align: center;
-    }
-    
-    .features .feature-icon {
-        float: none;
-        margin-right: 0;
-        margin-bottom: 20px;
-    }
+	.features {
+		text-align: center;
+	}
+
+	.features .feature-icon {
+		float: none;
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
 }
 
 
 @media (max-width: 767px) {
- 
-	
 
-    html {
-        font-size: 90%;
-    }
-    
-    .bs-navbar-collapse {
+
+
+	html {
+		font-size: 90%;
+	}
+
+	.bs-navbar-collapse {
 		border: 0;
 	}
 
@@ -129,19 +131,20 @@
 		display: inline-block;
 		margin-bottom: 0;
 	}
-    /* HOME */
+
+	/* HOME */
 	.header {
 		min-height: inherit;
 		padding-bottom: 75px;
 	}
 
 	.intro {
-	    margin-top: 30%;
+		margin-top: 30%;
 		line-height: 3.438rem !important;
 		font-size: 2.813rem;
 	}
-      
-      /* ABOUT US */
+
+	/* ABOUT US */
 	.big-intro {
 		text-align: center !important;
 		font-size: 8vw !important;
@@ -154,8 +157,8 @@
 	.skills {
 		margin-bottom: 78px !important;
 	}
-      
-      /* PURCHASE NOW */
+
+	/* PURCHASE NOW */
 	.purchase-now {
 		margin: auto;
 		text-align: center !important;
@@ -169,8 +172,8 @@
 	.purchase-now .red-btn {
 		float: none;
 	}
-      
-      /* FOOTER */
+
+	/* FOOTER */
 	footer {
 		padding-top: 40px;
 	}
@@ -188,48 +191,59 @@
 }
 
 @media (max-width: 480px) {
- 
 
-/* HOME */
+
+	/* HOME */
 	html {
-        font-size: 70%;
-    }
+		font-size: 70%;
+	}
+
 	.responsive-logo img {
-        width: 70%;
-    }
-    
-    #main-nav {
-        min-height: 50px;
-    }
-	
+		width: 70%;
+	}
+
+	#main-nav {
+		min-height: 50px;
+	}
+
 	.intro {
 		margin-top: 40%;
 		line-height: 3.438rem !important;
 		font-size: 2.813rem;
 	}
-    
-    .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
-	padding-top: 60px;
-}
-    .buttons {
-	    margin-bottom: 0;
-	    margin-top: 30px;
+
+	.focus,
+	.works,
+	.about-us,
+	.features,
+	.our-team,
+	.packages,
+	.products .color-overlay,
+	.testimonial,
+	.contact-us {
+		padding-top: 60px;
 	}
-     
-    .custom-button {
-        padding: 10px 18px;
-    }
-     h1 {
-        font-weight: normal;
-    }
-    
+
+	.buttons {
+		margin-bottom: 0;
+		margin-top: 30px;
+	}
+
+	.custom-button {
+		padding: 10px 18px;
+	}
+
+	h1 {
+		font-weight: normal;
+	}
+
 	h2 {
 		font-size: 6.5vw !important;
 	}
-	
-	 h3 {
-        font-size: 1.7rem;
-    }
+
+	h3 {
+		font-size: 1.7rem;
+	}
 
 	.other-focus-list ul li {
 		display: block;
@@ -239,30 +253,38 @@
 }
 
 @media (max-width: 320px) {
-    
-    html {
-        font-size: 62.5%;
-    }
-    
-    
-    body {
-        font-size: 1.3rem;
-    }
-    
-    .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
-	padding-top: 50px;
-}
-    
-    h1 {
-        font-weight: normal;
-    }
-    
-    h3 {
-        font-size: 1.7rem;
-    }
-    
-    .intro {
-        margin-top: 50%;
+
+	html {
+		font-size: 62.5%;
+	}
+
+
+	body {
+		font-size: 1.3rem;
+	}
+
+	.focus,
+	.works,
+	.about-us,
+	.features,
+	.our-team,
+	.packages,
+	.products .color-overlay,
+	.testimonial,
+	.contact-us {
+		padding-top: 50px;
+	}
+
+	h1 {
+		font-weight: normal;
+	}
+
+	h3 {
+		font-size: 1.7rem;
+	}
+
+	.intro {
+		margin-top: 50%;
 		line-height: 3.1rem !important;
 		font-size: 2.1rem;
 	}
@@ -273,18 +295,20 @@
 }
 
 .video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    margin-top: 12px;
-    padding-top: 30px; height: 0; overflow: hidden;
+	position: relative;
+	padding-bottom: 56.25%;
+	margin-top: 12px;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
