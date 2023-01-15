@@ -140,7 +140,7 @@ body {
     color: #F1F1F1;
     text-align: center;
     text-shadow: 0 1px 0 rgba(0,0,0,.1);
-    background-color: #106470;
+    background-color: #c20b4d;
 }
 
 .bs-docs-masthead .bs-docs-booticon {
@@ -450,9 +450,9 @@ body {
 .bs-docs-sidebar .nav>.active>a,.bs-docs-sidebar .nav>.active:hover>a,.bs-docs-sidebar .nav>.active:focus>a {
     padding-left: 18px;
     font-weight: 700;
-    color: #28828a;
+    color: #b10f56;
     background-color: transparent;
-    border-left: 2px solid #28828a;
+    border-left: 2px solid #b10f56;
 }
 
 .bs-docs-sidebar .nav .nav {
@@ -1517,7 +1517,7 @@ h1[id] {
     color: #3B5998;
 }
 .web-link:hover{
-    color: #106470;
+    color: #c20b4d;
 }
 .yt-link:hover{
     color: #cd201f;
